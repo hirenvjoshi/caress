@@ -20,7 +20,7 @@ header{background-image: url(images/header_bg.jpg);background-size: cover;backgr
 .brushes{display: inline-block;vertical-align: top;width: 242px;max-width: 32%;}
 .brush_title{font-size: 29px;color: #000000;padding-top: 20px;text-transform: uppercase;}
 .header_tagline{text-align: center;}
-.header_tagline h1{font-size: 62px;color: #d80061;font-weight: 300;padding-top: 30%;}
+.header_tagline h1{font-size: 62px;color: #130b12;font-weight: 300;padding-top: 30%;}
 .header_tagline h1 span{font-weight: 700;display: block;padding-top: 20px;}
 .button_custom a{display: inline-block;background-color: #e8000f;color: #ffffff;text-decoration: none;padding: 15px 40px;font-size: 17px;text-transform: uppercase;letter-spacing: 3px;border-radius: 25px;margin-top: 40px;}
 .toggle_button{display: none;float: right;cursor: pointer;}
